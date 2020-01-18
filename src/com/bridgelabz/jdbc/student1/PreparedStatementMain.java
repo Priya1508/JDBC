@@ -5,7 +5,7 @@ import java.sql.DriverManager;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 
-public class Main
+public class PreparedStatementMain
 {
 	public static void main(String[] args)
 	{
